@@ -1,0 +1,14 @@
+https://news.baidu.com/widget?id=LocalNews&ajax=json&t=1721109909899
+https://news.baidu.com/widget?id=civilnews&t=1721109912385
+https://news.baidu.com/widget?id=civilnews&t=1721109912385
+https://news.baidu.com/widget?id=InternationalNews&t=1721109912402
+https://news.baidu.com/widget?id=EnterNews&t=1721109912419
+https://news.baidu.com/widget?id=SportNews&t=1721109912435
+https://news.baidu.com/widget?id=FinanceNews&t=1721109912452
+https://news.baidu.com/widget?id=TechNews&t=1721109912469
+https://news.baidu.com/widget?id=MilitaryNews&t=1721109912485
+https://news.baidu.com/widget?id=InternetNews&t=1721109912502
+https://news.baidu.com/widget?id=DiscoveryNews&t=1721109912519
+https://news.baidu.com/widget?id=LadyNews&t=1721109912536
+https://news.baidu.com/widget?id=HealthNews&t=1721109913202
+https://news.baidu.com/widget?id=PicWall&t=1721109913218
